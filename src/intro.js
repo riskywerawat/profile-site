@@ -4,7 +4,7 @@ import "./styles/main.css";
 import Introraw from './customization/Introduction.json'
 import Eduraw from './customization/Education.json'
 
-
+import head2 from "./img/giphy.gif";
 export function Read_Intro() {
     return (
         <span class="text blcok-long">
@@ -23,7 +23,7 @@ export function Intro() {
     return (
         <div class="intro">
             <span id="blcok">
-                <img src={head}/>
+                <img src={head2}/>
             </span>
             <Read_Intro />
         </div>
