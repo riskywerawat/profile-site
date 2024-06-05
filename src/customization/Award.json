@@ -1,10 +1,43 @@
 {
     "awards" : [
         {
-            "entry" : "2023, NSTC - Travel Grants for graduate students to attend international conference"
+            "entry" : "📌 2023, NSTC - Travel Grants for graduate students to attend international conference"
         },
         {
-            "entry" : "2020, CCU - Presidential Honor Award in recognition of extraordinary academic achievement in the 2nd semester of Academic Year 2019-2020"
+            "entry" : "📌 2020, CCU - Presidential Honor Award in recognition of extraordinary academic achievement in the 2nd semester of Academic Year 2019-2020"
+        }
+    ],
+    "awards2" : [
+        {
+            "entry" : "📌 Next.js & NestJS"
+        },
+        {
+            "entry" : "📌 Golang hexagonal architecture for microservice"
+        },
+        {
+            "entry" : "📌 Spring boot framework"
+        }
+        ,
+        {
+            "entry" : "📌 Mern stack"
+        },
+        {
+            "entry" : "📌 DevOps"
+        },
+        {
+            "entry" : "📌 Laravel Framework"
+        },
+        {
+            "entry" : "📌 Agile Methodologies"
+        },
+        {
+            "entry" : "📌 Knowledgable in User Interface/ User Experience"
+        },
+        {
+            "entry" : "📌 Ability to Work Under Pressure"
+        },
+        {
+            "entry" : "📌 Adaptability"
         }
     ]
 }

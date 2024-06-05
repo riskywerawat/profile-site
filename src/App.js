@@ -3,12 +3,15 @@ import {Intro, Edu} from "./intro";
 import Pub from "./pub";
 import Exp from "./exp";
 import Awd from "./award";
+import Exp2 from "./exp2";
+import Awd2 from "./award2";
 import Pro from "./pro";
+import Employment from './employment'
 import { ASCII } from "./tool";
 import {Path, Code, Contact} from "./tool";
 import "./styles/main.css";
 
-const paths = ['~\Home', '~\Project', '~\Publication', '~\Experience', '~\Award', '~\Project'];
+const paths = ['~\Home', '~\Employment', '~\TeckStack', '~\Skills', '~\Certificates', '~\Project'];
 
 function Intro_content(p) {
 	return (
@@ -20,9 +23,7 @@ function Intro_content(p) {
 			<Path path={paths[p.index-1]}/>
 			<Code command='Education'/>
 			<Edu />
-			<Path path={paths[p.index-1]}/>
-			<Code command='Contact Information'/>
-			<Contact />
+			
 		</div>
 	);
 }
@@ -32,11 +33,10 @@ function Pro_content(p) {
 		<div id='app'> 
 			<ASCII />
 			<Path path={paths[p.index-1]}/>
-			<Code command='Project'/>
-			<Pro />
-			<Path path={paths[p.index-1]}/>
-			<Code command='Contact Information'/>
-			<Contact />
+			<Code command='Employment'/>
+			<Exp />
+			
+			
 		</div>
 	);
 }
@@ -46,11 +46,9 @@ function Pub_content(p) {
 		<div id='app'> 
 			<ASCII />
 			<Path path={paths[p.index-1]}/>
-			<Code command='Publication list'/>
+			<Code command='TechStack ⚙️'/>
 			<Pub />
-			<Path path={paths[p.index-1]}/>
-			<Code command='Contact Information'/>
-			<Contact />
+			
 		</div>
 	);
 }
@@ -60,11 +58,9 @@ function Exp_content(p) {
 		<div id='app'> 
 			<ASCII />
 			<Path path={paths[p.index-1]}/>
-			<Code command='Experience'/>
-			<Exp />
-			<Path path={paths[p.index-1]}/>
-			<Code command='Contact Information'/>
-			<Contact />
+			<Code command='Skills'/>
+			<Awd2 />
+			
 		</div>
 	);
 }
@@ -74,11 +70,8 @@ function Awd_content(p) {
 		<div id='app'> 
 			<ASCII />
 			<Path path={paths[p.index-1]}/>
-			<Code command='Honors'/>
-			<Awd />
-			<Path path={paths[p.index-1]}/>
-			<Code command='Contact Information'/>
-			<Contact />
+			<Code command='Certificates'/>
+			<Exp2 />
 		</div>
 	);
 }

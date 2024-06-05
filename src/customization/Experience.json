@@ -2,15 +2,36 @@
     "companies" : [
         {
             "logo" : "./img/iislogo-removebg-preview.png",
-            "name" : "Institute of XXXXXX, OOOOOOO OOOO",
-            "position_time" : "Research Intern, Summer, 2022",
-            "discription" : "rocessing in/near memory system project, e.g., realizing genome sequencing on a processing-in-memory system"
+            "name" : "AXONS, Bangkok , Thailand",
+            "position_time" : "Middle Developer",
+            "discription" : "Development smart hr service system front-end. \rResponsible for the end-to-end development of smart HR service system front-end, ensuring optimal user experiences. Developed and implemented import destination with a template master data system, enhancing data accuracy and efficiency. Implemented of workflow progression and timeline approval processes. Implemented the Interview & Exam information settings module, improving the recruitment workflow. Development back-end service recruiting management system. Led the development of a module for job requisition posting and approval process workflow, contributing to efficient recruitment. Developed task progression modules for the admin/manager system, enhancing user accessibility and task management. Implemented message queuing services with SQS & SNS for synchronized employee data and event triggering using Eventbridge rules. Created the module for profile candidate integrity, streamlining the application and recruitment process. Developed and managed the admin career-site setting module, providing administrators with effective control over career-site configurations. Participate in helping design the system structure and Check the accuracy of the work. Responsible for fixing vulnerabilities: SonarQube and Checkmarx tools. Initiate unit testing for the team to continue and code coverage tools and statement line."
         },
         {
             "logo" : "./img/patere-removebg-preview.png",
-            "name" : "XXXX Co.",
-            "position_time" : "Software Engineering Intern, Aug. 2021 - Jun. 2022",
-            "discription" : "Computer vision and deep learning project, e.g., implementing an object detection application for patient assistance"
+            "name" : "PTT Digital Solution Company Limited, Bangkok , Thailand.",
+            "position_time" : "Junior developer, Nov 2020 - Feb 2022",
+            "discription" : "Software Development For PTT Group Development system payment gateway. Development system identity Digital ID in part relying party with blockchain. Development Natural Gas Trading Platform. Development mobile & web application fish farming and manufacture processing. Developer Lead ( team SMT Project techstack ) Consulting on unit test and source code review, Installation instructions Splunk and APM, RUM and log observer severity. Meeting with the clients to get and discuss the project requirement & workflow DevOps & DevSecOps Operations Prepare the pipeline of be used deployment cloud service. Setting the monitoring tools used for monitor the transaction Responsible for scan source code and fix vulnerabilities with scanning analyzer security testing software."
+        }, {
+            "logo" : "./img/patere-removebg-preview.png",
+            "name" : "Entronica Co., Ltd., Bangkok , Thailand",
+            "position_time" : "Software developer, Jun 2019 - Oct 2019",
+            "discription" : "Design database and acquire the requirement of customer for using design the structure project.Prepare the manual of be used by customer for comfortable web application"
         }
+    
+    ],
+    "companies2" : [
+        {
+            "logo" : "./img/iislogo-removebg-preview.png",
+            "name" : "DevOps Enginering on AWS with AWS Jam , Thailand",
+            "position_time" : "AWS",
+            "discription" : "DevOps Engineering on AWS demonstrates how to use the most common DevOps patterns to develop, deploy and maintain applications on AWS. The course covers the core principles of the DevOps methodology and examines a number of use cases applicable to startup, small-medium business, and enterprise development scenarios. This four day version of the DevOps Engineering course includes the associated AWS Jam on the final day. In this AWS Jam, a gamified event, you will work in a team, competing to score points by completing a series of challenges according to established best practices based on concepts covered in the DevOps Engineering course. You will get to experience a wide range of AWS services in a series of real-world scenarios that represent common operational and troubleshooting tasks. The end result is developing, enhancing, and validating your skillsets in the AWS Cloud through real-world problem solving, exploring new services, features, and understand how they interoperate."
+        },
+        {
+            "logo" : "./img/iislogo-removebg-preview.png",
+            "name" : "Microsoft Azure Administrator (AZ-104)",
+            "position_time" : "Microsoft",
+            "discription" : "The Microsoft Azure Administrator certification is one of the most important credentials employers look for when evaluating Azure specialists. It validates your skills and expertise to help organizations maximize their Azure implementations. After getting your AZ-104 certification, you can pursue credentials like those for Azure Solutions Architects, Security Engineers and Cloud Developers. "
+        }
+    
     ]
 }

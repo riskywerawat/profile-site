@@ -1,19 +1,29 @@
 {
+    "Middle Developer":[{}],
+
     "journal" : [{
-        "title" : "LongPhase: an ultra-fast chromosome-scale phasing algorithm for small and large variants",
-        "author" : "Jyun-Hong Lin, Liang-Chi Chen, Shu-Qi Yu, Yao-Ting Huang",
-        "organization" : "Bioinformatics, Volume 38, Issue 7, March 2022, Pages 1816-1822",
-        "link" : "https://doi.org/10.1093/bioinformatics/btac058"
+        "title" : "||Programming languages and frameworks||",
+        "author" : "TypeScript & JavaScript , Golang ,NestJS,Next.js, Nodejs , Java , PHP , C#.Net ,CSS , HTML"
     }],
     "conference" : [{
-        "title" : "Efficient Sanitization Design for LSM-based Key-Value Store over 3D MLC NAND Flash",
-        "author" : "Liang-Chi Chen, Shu-Qi Yu, Chien-Chung Ho, Wei-Chen Wang, Yung-Chun Li",
-        "organization" : "The 38th ACM/SIGAPP Symposium on Applied Computing (SAC), March 27-31, 2023",
-        "link" : "https://dl.acm.org/doi/10.1145/3555776.3577780"
-    },{
-        "title" : "Efficient Sanitization Design for LSM-based Key-Value Store over 3D MLC NAND Flash",
-        "author" : "Liang-Chi Chen, Shu-Qi Yu, Chien-Chung Ho, Wei-Chen Wang, Yung-Chun Li",
-        "organization" : "The 38th ACM/SIGAPP Symposium on Applied Computing (SAC), March 27-31, 2023",
-        "link" : "https://dl.acm.org/doi/10.1145/3555776.3577780"
+        "title" : "||Platform cloud service||",
+        "author" : "Microsoft Azure ,AWS, Red Hat Openshift , FireBase"
+    }],
+    "conference2" : [{
+        "title" : "||Database service||",
+        "author" : "Mongodb ,Mysql Server ,PostgreSQL , Redis , FireBase Realtime Database,e"
+    }],
+    "conference3" : [{
+        "title" : "||Key management tools||",
+        "author" : "Hashicorp vault , Azure Key Vault , AWS KMS"
+    }],
+    "conference4" : [{
+        "title" : "||DevOps||",
+        "author" : "Git , Jenkins , Docker, Kubernetes, AKS,Helm, Nexus Repository, ACR"
+    }],
+    "conference5" : [{
+        "title" : "||Vulnerabilities and Observability tools||",
+        "author" : "Sonaqube , Checkmarx , Coverity , Blackduck , Anchore , Jaeger , prometheus grafana , splunk"
     }]
+    
 }

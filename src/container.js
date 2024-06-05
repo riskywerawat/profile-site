@@ -19,7 +19,7 @@ function Menu() {
                             }\
                         "}</style>
                     </i> 
-                    &nbsp;user@your-name-Home-Page
+                    &nbsp;user@riskywerawat
                 </h1>
             </div>
             <div class="buttons-flex2">
@@ -57,27 +57,27 @@ class Container extends Component {
                         </span>
                     </button>
                     <button className={Number(this.state.Index) === Number(2) ? 'active': null} onClick={() => this.goPage(2)}>
-                        <span>~/Project</span>
+                        <span>~/Employment</span>
                         {/* if your are an engineer, just replcae to "Project"  */}
                         <span class="left-command">
                             &#8984;2
                         </span>
                     </button> 
                     <button className={Number(this.state.Index) === Number(3) ? 'active': null} onClick={() => this.goPage(3)}>
-                        <span>~/Publication</span>
+                        <span>~/TechStack</span>
                         {/* if your are an engineer, just replcae to "Project"  */}
                         <span class="left-command">
                             &#8984;3
                         </span>
                     </button> 
                     <button className={Number(this.state.Index) === Number(4) ? 'active': null} onClick={() => this.goPage(4)}>
-                        <span>~/Experience</span>
+                        <span>~/Skills</span>
                         <span class="left-command">
                             &#8984;4
                         </span>
                     </button>
                     <button className={Number(this.state.Index) === Number(5) ? 'active': null} onClick={() => this.goPage(5)}>
-                        <span>~/Award</span>
+                        <span>~/Certificates</span>
                         <span class="left-command">
                             &#8984;5
                         </span>
